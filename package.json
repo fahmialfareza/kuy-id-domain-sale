@@ -22,6 +22,7 @@
     "react-icons": "^4.8.0",
     "typescript": "5.0.4"
   },
+  "packageManager": "pnpm@10.20.0",
   "volta": {
     "node": "24.11.0",
     "pnpm": "10.20.0"
