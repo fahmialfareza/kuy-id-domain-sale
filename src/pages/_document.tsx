@@ -8,7 +8,7 @@ export default function Document() {
         <script
           defer
           src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon='{"token": "0fd44994b4f045188c4df4091265f8a6"}'
+          data-cf-beacon='{"token": "ef9ab21e4e754d98b1acea1a9208eb84"}'
         ></script>
       </Head>
       <body>
